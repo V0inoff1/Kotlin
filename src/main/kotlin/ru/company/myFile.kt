@@ -1,7 +1,6 @@
 package ru.company
 
-class myFile {
-    fun myFile () {
+
+    fun main () {
         println("First APP!")
     }
-}
