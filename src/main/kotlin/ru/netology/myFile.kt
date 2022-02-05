@@ -1,4 +1,4 @@
-package ru.company
+package ru.netology
 
 
     fun main () {
